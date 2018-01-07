@@ -22,7 +22,7 @@ The repository is inspired by the [arXivTimes's repo](https://github.com/arXivTi
 	* Method 
 	* Results
 	* Comments
-	* TODO
+	* BibTex-File
 * Attach a label according to the content of the paper
  
 ## TODO

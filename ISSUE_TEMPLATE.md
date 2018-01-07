@@ -16,5 +16,16 @@
 
 ## Comments
 
-## TODO List
-- [ ] Description
+## BibTex-File
+```
+@article{article,
+  author  = {}, 
+  title   = {},
+  journal = {},
+  year    = ,
+  number  = ,
+  pages   = {},
+  month   = ,
+  volume  = 
+}
+```
