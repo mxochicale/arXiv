@@ -7,12 +7,14 @@ The repository is inspired by the [arXivTimes's repo](https://github.com/arXivTi
 # Contents
 
 * [Articles Summaries](https://github.com/mxochicale/arXiv/issues)
-	* Articles are organised by issues and labels
+	* Articles are organised by issues and its own labels
 
 # How to Contribute
 
 * Create an Issue for the paper or publication you want to submit
-* Use the following template for each Issue
+* Use the automatic template that appears when submitting an issue
+	* Title
+	* Author(s)
 	* Abstract
 	* Article link
 	* Author(s) / Organisation
@@ -23,7 +25,7 @@ The repository is inspired by the [arXivTimes's repo](https://github.com/arXivTi
 	* Results
 	* Comments
 	* BibTex-File
-* Attach a label according to the content of the paper
+* Attach a label(s) according to the content of the paper and year of publication.
  
 ## TODO
 - [ ] add path for datasets and tools   
