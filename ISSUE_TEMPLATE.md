@@ -4,11 +4,16 @@
   author  = {}, 
   title   = {},
   journal = {},
-  year    = ,
-  number  = ,
+  year    = {},
+  number  = {},
   pages   = {},
-  month   = ,
-  volume  = 
+  month   = {},
+  volume  = {},
+  issn = {},
+  doi = {},
+  url = {},
+  keywords = {},
+  abstract = {}
 }
 ```
 
