@@ -1,4 +1,18 @@
-# Title
+# BibTex-File
+```
+@article{article,
+  author  = {}, 
+  title   = {},
+  journal = {},
+  year    = ,
+  number  = ,
+  pages   = {},
+  month   = ,
+  volume  = 
+}
+```
+
+## Title
 
 ## Author(s)
 
@@ -20,16 +34,3 @@
 
 ## Comments
 
-## BibTex-File
-```
-@article{article,
-  author  = {}, 
-  title   = {},
-  journal = {},
-  year    = ,
-  number  = ,
-  pages   = {},
-  month   = ,
-  volume  = 
-}
-```
