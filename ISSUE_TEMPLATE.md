@@ -17,18 +17,17 @@
 }
 ```
 
-## Title:
+# Title
 
-## Author(s):
+## Author(s) Organisation/Website/Twitter
+[]() and 
 
-## ## Google Scholar Citations by Day Month Year
+## ??? Google Scholar Citations by ????
 link
 
 ## Abstract
 
 ### Article link
-
-### Author(s) / Organisation
 
 ### Posting date (day/month/year)
 
