@@ -22,14 +22,15 @@
 ## Author(s) Organisation/Website/Twitter
 []() and 
 
-## ??? Google Scholar Citations by ????
+## ? Google Scholar Citations by ?date?
 link
+FILE: link
 
 ## Abstract
 
 ### Article link
 
-### Posting date (day/month/year)
+### Added: XXMONTHYEAR
 
 ## Overview
 
