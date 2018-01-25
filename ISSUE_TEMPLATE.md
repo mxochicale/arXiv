@@ -1,3 +1,7 @@
+## ? Google Scholar Citations by date?
+link
+FILE: link
+
 # BibTex-File
 ```
 @article{article,
@@ -19,12 +23,7 @@
 
 # Title
 
-## Author(s) Organisation/Website/Twitter
-[]() and 
-
-## ? Google Scholar Citations by ?date?
-link
-FILE: link
+## Author(s) Surname Foreanem/Website
 
 ## Abstract
 
