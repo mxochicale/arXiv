@@ -23,7 +23,7 @@ FILE: link
 
 # Title
 
-## Author(s) Surname Foreanem/Website
+## Author(s) Surname Foreanem / Website
 
 ## Abstract
 
@@ -31,13 +31,11 @@ FILE: link
 
 ### Added: XXMONTHYEAR
 
-## Overview
-
 ## Novelty / difference
 
 ## Method 
 
 ## Results
 
-## Comments
+# RAW REVIEWS on date?
 
